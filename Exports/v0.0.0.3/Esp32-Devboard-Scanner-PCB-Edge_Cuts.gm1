@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2026-01-28T13:45:24-05:00*%
+%TF.ProjectId,Esp32-Devboard-Scanner-PCB,45737033-322d-4446-9576-626f6172642d,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2026-01-28 13:45:24*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X141097000Y-61595000D02*
+X181991000Y-61595000D01*
+X181991000Y-107950000D01*
+X141097000Y-107950000D01*
+X141097000Y-61595000D01*
+M02*
